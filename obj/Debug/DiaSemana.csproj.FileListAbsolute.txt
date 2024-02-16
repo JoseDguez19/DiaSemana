@@ -1,0 +1,7 @@
+C:\Users\ap550\source\repos\DiaSemana\bin\Debug\DiaSemana.exe.config
+C:\Users\ap550\source\repos\DiaSemana\bin\Debug\DiaSemana.exe
+C:\Users\ap550\source\repos\DiaSemana\bin\Debug\DiaSemana.pdb
+C:\Users\ap550\source\repos\DiaSemana\obj\Debug\DiaSemana.csproj.AssemblyReference.cache
+C:\Users\ap550\source\repos\DiaSemana\obj\Debug\DiaSemana.csproj.CoreCompileInputs.cache
+C:\Users\ap550\source\repos\DiaSemana\obj\Debug\DiaSemana.exe
+C:\Users\ap550\source\repos\DiaSemana\obj\Debug\DiaSemana.pdb
